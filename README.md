@@ -1,5 +1,6 @@
 # QuizConhecimentosJS
-óptima experiência
+
+Foi um execelente aprendizado
 
 #Tecnologia utilizadas
 

@@ -1,3 +1,4 @@
+//Início do código todo
 const perguntas = [
     {
       pergunta: "Qual é a sintaxe correta para declarar uma variável em JavaScript?",
